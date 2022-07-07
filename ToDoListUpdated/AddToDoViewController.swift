@@ -52,14 +52,8 @@ class AddToDoViewController: UIViewController, UIImagePickerControllerDelegate, 
             (UIApplication.shared.delegate as? AppDelegate)?.saveContext() }
         navigationController?.popViewController(animated: true)
     }
-    
-    
-    
-    
-    //        toDoTableViewController?.toDos.append(newToDo)
-    //        toDoTableViewController?.tableView.reloadData()
-    //        navigationController?.popViewController(animated: true)
 }
+
 /*
  // MARK: - Navigation
  

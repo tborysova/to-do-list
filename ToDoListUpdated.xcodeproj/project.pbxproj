@@ -13,7 +13,6 @@
 		46DA4A8E287452B10044BBF7 /* ToDoListUpdated.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 46DA4A8C287452B10044BBF7 /* ToDoListUpdated.xcdatamodeld */; };
 		46DA4A90287452B20044BBF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46DA4A8F287452B20044BBF7 /* Assets.xcassets */; };
 		46DA4A93287452B20044BBF7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46DA4A91287452B20044BBF7 /* LaunchScreen.storyboard */; };
-		46DA4A9B2874580D0044BBF7 /* ToDo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46DA4A9A2874580D0044BBF7 /* ToDo.swift */; };
 		46DA4A9D287459CB0044BBF7 /* ToDoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46DA4A9C287459CB0044BBF7 /* ToDoTableViewController.swift */; };
 		46DA4A9F287467EE0044BBF7 /* AddToDoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46DA4A9E287467EE0044BBF7 /* AddToDoViewController.swift */; };
 		46DA4AA128747B550044BBF7 /* ToDoDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46DA4AA028747B550044BBF7 /* ToDoDetailsViewController.swift */; };
@@ -28,7 +27,6 @@
 		46DA4A8F287452B20044BBF7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		46DA4A92287452B20044BBF7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		46DA4A94287452B20044BBF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		46DA4A9A2874580D0044BBF7 /* ToDo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDo.swift; sourceTree = "<group>"; };
 		46DA4A9C287459CB0044BBF7 /* ToDoTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoTableViewController.swift; sourceTree = "<group>"; };
 		46DA4A9E287467EE0044BBF7 /* AddToDoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToDoViewController.swift; sourceTree = "<group>"; };
 		46DA4AA028747B550044BBF7 /* ToDoDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoDetailsViewController.swift; sourceTree = "<group>"; };
@@ -69,7 +67,6 @@
 				46DA4A89287452B10044BBF7 /* Main.storyboard */,
 				46DA4AA028747B550044BBF7 /* ToDoDetailsViewController.swift */,
 				46DA4A9E287467EE0044BBF7 /* AddToDoViewController.swift */,
-				46DA4A9A2874580D0044BBF7 /* ToDo.swift */,
 				46DA4A9C287459CB0044BBF7 /* ToDoTableViewController.swift */,
 				46DA4A8F287452B20044BBF7 /* Assets.xcassets */,
 				46DA4A91287452B20044BBF7 /* LaunchScreen.storyboard */,
@@ -154,7 +151,6 @@
 				46DA4AA128747B550044BBF7 /* ToDoDetailsViewController.swift in Sources */,
 				46DA4A84287452B10044BBF7 /* AppDelegate.swift in Sources */,
 				46DA4A86287452B10044BBF7 /* SceneDelegate.swift in Sources */,
-				46DA4A9B2874580D0044BBF7 /* ToDo.swift in Sources */,
 				46DA4A9F287467EE0044BBF7 /* AddToDoViewController.swift in Sources */,
 				46DA4A9D287459CB0044BBF7 /* ToDoTableViewController.swift in Sources */,
 			);
